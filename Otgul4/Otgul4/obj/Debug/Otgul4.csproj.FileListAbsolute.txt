@@ -1,0 +1,66 @@
+C:\Users\MAEfimov\Documents\Otgul4\Otgul4\bin\Debug\Otgul4.exe.config
+C:\Users\MAEfimov\Documents\Otgul4\Otgul4\bin\Debug\Otgul4.exe
+C:\Users\MAEfimov\Documents\Otgul4\Otgul4\bin\Debug\Otgul4.pdb
+C:\Users\MAEfimov\Documents\Otgul4\Otgul4\obj\Debug\Otgul4.csprojAssemblyReference.cache
+C:\Users\MAEfimov\Documents\Otgul4\Otgul4\obj\Debug\Otgul4.Form1.resources
+C:\Users\MAEfimov\Documents\Otgul4\Otgul4\obj\Debug\Otgul4.Properties.Resources.resources
+C:\Users\MAEfimov\Documents\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.GenerateResource.cache
+C:\Users\MAEfimov\Documents\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.CoreCompileInputs.cache
+C:\Users\MAEfimov\Documents\Otgul4\Otgul4\obj\Debug\Otgul4.exe
+C:\Users\MAEfimov\Documents\Otgul4\Otgul4\obj\Debug\Otgul4.pdb
+C:\Users\Матвей\Desktop\Otgul4\Otgul4\bin\Debug\Otgul4.exe.config
+C:\Users\Матвей\Desktop\Otgul4\Otgul4\bin\Debug\Otgul4.exe
+C:\Users\Матвей\Desktop\Otgul4\Otgul4\bin\Debug\Otgul4.pdb
+C:\Users\Матвей\Desktop\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.AssemblyReference.cache
+C:\Users\Матвей\Desktop\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Матвей\Desktop\Otgul4\Otgul4\obj\Debug\Otgul4.Form1.resources
+C:\Users\Матвей\Desktop\Otgul4\Otgul4\obj\Debug\Otgul4.Properties.Resources.resources
+C:\Users\Матвей\Desktop\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.GenerateResource.cache
+C:\Users\Матвей\Desktop\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.CoreCompileInputs.cache
+C:\Users\Матвей\Desktop\Otgul4\Otgul4\obj\Debug\Otgul4.exe
+C:\Users\Матвей\Desktop\Otgul4\Otgul4\obj\Debug\Otgul4.pdb
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\bin\Debug\Otgul4.exe.config
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\bin\Debug\Otgul4.exe
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\bin\Debug\Otgul4.pdb
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.AssemblyReference.cache
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.ResolveComReference.cache
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\obj\Debug\Otgul4.Form1.resources
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\obj\Debug\Otgul4.Properties.Resources.resources
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.GenerateResource.cache
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.CoreCompileInputs.cache
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\obj\Debug\Otgul4.exe
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\obj\Debug\Otgul4.pdb
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\bin\Debug\shablon_zayavlenia_na_otgul.doc
+F:\Diplom test\Otgul4\Otgul4\bin\Debug\shablon_zayavlenia_na_otgul.doc
+F:\Diplom test\Otgul4\Otgul4\bin\Debug\Otgul4.exe.config
+F:\Diplom test\Otgul4\Otgul4\bin\Debug\Otgul4.exe
+F:\Diplom test\Otgul4\Otgul4\bin\Debug\Otgul4.pdb
+F:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.AssemblyReference.cache
+F:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.SuggestedBindingRedirects.cache
+F:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.ResolveComReference.cache
+F:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.Form1.resources
+F:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.Properties.Resources.resources
+F:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.GenerateResource.cache
+F:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.CoreCompileInputs.cache
+F:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.exe
+F:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.pdb
+C:\Users\Матвей\Desktop\Программирование\Visual Studio\Otgul4\Otgul4\bin\Debug\shablon_zayavlenia_na_pererabotku.doc
+F:\Diplom test\Otgul4\Otgul4\bin\Debug\shablon_zayavlenia_na_pererabotku.doc
+F:\Diplom test\Otgul4\Otgul4\bin\Debug\authorization_DB.mdb
+F:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.authorization_form.resources
+G:\Diplom test\Otgul4\Otgul4\bin\Debug\shablon_zayavlenia_na_otgul.doc
+G:\Diplom test\Otgul4\Otgul4\bin\Debug\shablon_zayavlenia_na_pererabotku.doc
+G:\Diplom test\Otgul4\Otgul4\bin\Debug\authorization_DB.mdb
+G:\Diplom test\Otgul4\Otgul4\bin\Debug\Otgul4.exe.config
+G:\Diplom test\Otgul4\Otgul4\bin\Debug\Otgul4.exe
+G:\Diplom test\Otgul4\Otgul4\bin\Debug\Otgul4.pdb
+G:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.AssemblyReference.cache
+G:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.ResolveComReference.cache
+G:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.authorization_form.resources
+G:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.Form1.resources
+G:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.Properties.Resources.resources
+G:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.GenerateResource.cache
+G:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.csproj.CoreCompileInputs.cache
+G:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.exe
+G:\Diplom test\Otgul4\Otgul4\obj\Debug\Otgul4.pdb
